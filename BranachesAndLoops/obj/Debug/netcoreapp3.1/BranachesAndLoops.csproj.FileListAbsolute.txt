@@ -1,0 +1,11 @@
+C:\Code\sharp\BranachesAndLoops\bin\Debug\netcoreapp3.1\BranachesAndLoops.exe
+C:\Code\sharp\BranachesAndLoops\bin\Debug\netcoreapp3.1\BranachesAndLoops.deps.json
+C:\Code\sharp\BranachesAndLoops\bin\Debug\netcoreapp3.1\BranachesAndLoops.runtimeconfig.json
+C:\Code\sharp\BranachesAndLoops\bin\Debug\netcoreapp3.1\BranachesAndLoops.runtimeconfig.dev.json
+C:\Code\sharp\BranachesAndLoops\bin\Debug\netcoreapp3.1\BranachesAndLoops.dll
+C:\Code\sharp\BranachesAndLoops\bin\Debug\netcoreapp3.1\BranachesAndLoops.pdb
+C:\Code\sharp\BranachesAndLoops\obj\Debug\netcoreapp3.1\BranachesAndLoops.csprojAssemblyReference.cache
+C:\Code\sharp\BranachesAndLoops\obj\Debug\netcoreapp3.1\BranachesAndLoops.AssemblyInfoInputs.cache
+C:\Code\sharp\BranachesAndLoops\obj\Debug\netcoreapp3.1\BranachesAndLoops.AssemblyInfo.cs
+C:\Code\sharp\BranachesAndLoops\obj\Debug\netcoreapp3.1\BranachesAndLoops.dll
+C:\Code\sharp\BranachesAndLoops\obj\Debug\netcoreapp3.1\BranachesAndLoops.pdb
